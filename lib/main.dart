@@ -151,7 +151,11 @@ class TimerHomePage extends StatelessWidget {
                     ),
                   ],
                 ),
-              )
+              ),
+              Text("Dibuat oleh Adecya Jalu Mahadwija NIM: 21201032"),
+              Padding(
+                padding: EdgeInsets.all(defaultPadding),
+              ),
             ]);
           })),
     );
